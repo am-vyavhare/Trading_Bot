@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Flask/VSCode/PyCharm related
+instance/
+*.db
+*.sqlite3
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# OS files
+Thumbs.db
+desktop.ini
+
