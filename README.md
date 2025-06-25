@@ -20,10 +20,13 @@ A sleek and simplified Python-based trading bot built using **Flask** and the `p
 
 > UI Preview of the Web Interface, Order Summary and Terminal Logs
 
-| UI Page | Order Summary | CLI Execution | Logs |
-|--------|----------------|---------------|------|
-| ![UI](static/screenshots/Trading_bot.png) | ![Summary](static/screenshots/Trading_bot_order_summary.png) | ![CLI](static/screenshots/Bot_on_CLI.png) | ![Terminal](static/screenshots/run_project_terminal.png) |
+| UI Page | Order Summary | CLI Execution |
+|--------|----------------|---------------|
+| ![UI](static/screenshots/Trading_bot.png) | ![Summary](static/screenshots/Trading_bot_order_summary.png) | ![CLI](static/screenshots/Bot_on_CLI.png) |
 
+| Positions | Trade History | Terminal |
+|-----------|---------------|------|
+| ![Positions](static/screenshots/Positions.png) | ![Trade history](static/screenshots/Trading_history.png) | ![Terminal](static/screenshots/run_project_terminal.png) |
 ---
 
 ## 🛠 Tech Stack
