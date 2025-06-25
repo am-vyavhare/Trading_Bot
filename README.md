@@ -26,7 +26,7 @@ A sleek and simplified Python-based trading bot built using **Flask** and the `p
 
 | Positions | Trade History | Terminal |
 |-----------|---------------|------|
-| ![Positions](static/screenshots/Positions.png) | ![Trade history](static/screenshots/Trading_history.png) | ![Terminal](static/screenshots/run_project_terminal.png) |
+| ![Positions](static/screenshots/Positions.png) | ![Trade history](static/screenshots/Trade_history.png) | ![Terminal](static/screenshots/run_project_terminal.png) |
 ---
 
 ## 🛠 Tech Stack
